@@ -8,4 +8,4 @@ Oyun, uygun renkteki sayıya basarak siyah kareye komşu olan tüm o renkleri de
 ![plot](./images/start.png)
 
 Devam eden oyunun görünümü
-![plot](./images/reesume.png)
+![plot](./images/resume.png)
