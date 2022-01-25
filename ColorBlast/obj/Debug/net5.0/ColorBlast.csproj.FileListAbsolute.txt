@@ -1,0 +1,16 @@
+C:\Users\Omer\source\repos\ColorBlast\ColorBlast\bin\Debug\net5.0\ColorBlast.exe
+C:\Users\Omer\source\repos\ColorBlast\ColorBlast\bin\Debug\net5.0\ColorBlast.deps.json
+C:\Users\Omer\source\repos\ColorBlast\ColorBlast\bin\Debug\net5.0\ColorBlast.runtimeconfig.json
+C:\Users\Omer\source\repos\ColorBlast\ColorBlast\bin\Debug\net5.0\ColorBlast.runtimeconfig.dev.json
+C:\Users\Omer\source\repos\ColorBlast\ColorBlast\bin\Debug\net5.0\ColorBlast.dll
+C:\Users\Omer\source\repos\ColorBlast\ColorBlast\bin\Debug\net5.0\ref\ColorBlast.dll
+C:\Users\Omer\source\repos\ColorBlast\ColorBlast\bin\Debug\net5.0\ColorBlast.pdb
+C:\Users\Omer\source\repos\ColorBlast\ColorBlast\obj\Debug\net5.0\ColorBlast.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\ColorBlast\ColorBlast\obj\Debug\net5.0\ColorBlast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\source\repos\ColorBlast\ColorBlast\obj\Debug\net5.0\ColorBlast.AssemblyInfoInputs.cache
+C:\Users\Omer\source\repos\ColorBlast\ColorBlast\obj\Debug\net5.0\ColorBlast.AssemblyInfo.cs
+C:\Users\Omer\source\repos\ColorBlast\ColorBlast\obj\Debug\net5.0\ColorBlast.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\ColorBlast\ColorBlast\obj\Debug\net5.0\ColorBlast.dll
+C:\Users\Omer\source\repos\ColorBlast\ColorBlast\obj\Debug\net5.0\ref\ColorBlast.dll
+C:\Users\Omer\source\repos\ColorBlast\ColorBlast\obj\Debug\net5.0\ColorBlast.pdb
+C:\Users\Omer\source\repos\ColorBlast\ColorBlast\obj\Debug\net5.0\ColorBlast.genruntimeconfig.cache
