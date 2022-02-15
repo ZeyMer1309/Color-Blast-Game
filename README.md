@@ -9,10 +9,13 @@ Son güncelleme ile Windows'a ait, Drawing kütüphanesi ve kernel32.dll kütüp
 
 
 Örnek bir oyun içi görünümü
+
 ![plot](./images/start.png)
 
 Devam eden oyunun görünümü
+
 ![plot](./images/resume.png)
 
 Oyun sonu görünümü
+
 ![plot](./images/finish.png)
