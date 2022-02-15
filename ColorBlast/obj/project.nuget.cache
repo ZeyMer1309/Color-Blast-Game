@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "tIVZPO5/Vgb4a3qIyI0te0A3a1ZU1/nmT472rU+c1hWFPAgT03TNel6sL5hkc31PFab0im2Ku1DtJquy0OUNTQ==",
+  "dgSpecHash": "3q50NnOcVD9d2bflgh939u6i4+bKqUGRb4jh1qcDglOpCbL4dMSOjcNaJ+b4DC3ROHtv+9p2Cn20z0LgaBRs2w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Omer\\Desktop\\TURKCELL\\[ödev2] - ColorBlast\\ColorBlast\\ColorBlast.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Omer\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Omer\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

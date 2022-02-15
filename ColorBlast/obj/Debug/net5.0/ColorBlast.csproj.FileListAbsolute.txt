@@ -30,3 +30,8 @@ C:\Users\Omer\Desktop\TURKCELL\[ödev2] - ColorBlast\ColorBlast\obj\Debug\net5.0
 C:\Users\Omer\Desktop\TURKCELL\[ödev2] - ColorBlast\ColorBlast\obj\Debug\net5.0\ref\ColorBlast.dll
 C:\Users\Omer\Desktop\TURKCELL\[ödev2] - ColorBlast\ColorBlast\obj\Debug\net5.0\ColorBlast.pdb
 C:\Users\Omer\Desktop\TURKCELL\[ödev2] - ColorBlast\ColorBlast\obj\Debug\net5.0\ColorBlast.genruntimeconfig.cache
+C:\Users\Omer\Desktop\TURKCELL\[ödev2] - ColorBlast\ColorBlast\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Omer\Desktop\TURKCELL\[ödev2] - ColorBlast\ColorBlast\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Omer\Desktop\TURKCELL\[ödev2] - ColorBlast\ColorBlast\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Omer\Desktop\TURKCELL\[ödev2] - ColorBlast\ColorBlast\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Omer\Desktop\TURKCELL\[ödev2] - ColorBlast\ColorBlast\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll

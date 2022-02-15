@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ColorBlast
+﻿namespace ColorBlast
 {
     class Program
     {

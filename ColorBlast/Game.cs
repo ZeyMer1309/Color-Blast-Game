@@ -1,13 +1,27 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ColorBlast
 {
     class Game
     {
+        #region Windows Makinelere Özel (Only for Windows Machine)
+        [System.Runtime.InteropServices.DllImport("kernel32.dll", EntryPoint = "GetConsoleWindow", SetLastError = true)]
+        private static extern IntPtr GetConsoleHandle();
+
+        /// <summary>
+        /// Opsiyonel bir fonksiyondur. Windows dışı makinelerde kapatılması gerekir.
+        /// </summary>
+        public void ShowImage()
+        {
+            var handler = GetConsoleHandle();
+
+            using (var graphics = System.Drawing.Graphics.FromHwnd(handler))
+            using (var image = System.Drawing.Image.FromFile("logo.jpg"))
+                graphics.DrawImage(image, 0, 50, 275, 200);
+            Console.WriteLine(new string(' ', 12) + "Ömer Gürbüz\n");
+        }
+        #endregion
+
         public Table table { get; set; } = new Table();
         public int stepCount { get; set; } = 0;
 
@@ -38,7 +52,9 @@ namespace ColorBlast
         public void GameOver()
         {
             Console.Clear();
-            Console.WriteLine($"Tebrikler oyunu {stepCount} adımda bitirdiniz.");
+            Console.WriteLine($"Tebrikler oyunu {stepCount} adımda bitirdiniz.{new string('\n', 15)}");
+
+            ShowImage();
         }
 
         public void Coloring(string color)
