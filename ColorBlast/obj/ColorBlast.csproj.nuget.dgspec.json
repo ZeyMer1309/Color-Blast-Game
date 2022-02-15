@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Omer\\source\\repos\\ColorBlast\\ColorBlast\\ColorBlast.csproj": {}
+    "C:\\Users\\Omer\\Desktop\\TURKCELL\\[ödev2] - ColorBlast\\ColorBlast\\ColorBlast.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Omer\\source\\repos\\ColorBlast\\ColorBlast\\ColorBlast.csproj": {
+    "C:\\Users\\Omer\\Desktop\\TURKCELL\\[ödev2] - ColorBlast\\ColorBlast\\ColorBlast.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omer\\source\\repos\\ColorBlast\\ColorBlast\\ColorBlast.csproj",
+        "projectUniqueName": "C:\\Users\\Omer\\Desktop\\TURKCELL\\[ödev2] - ColorBlast\\ColorBlast\\ColorBlast.csproj",
         "projectName": "ColorBlast",
-        "projectPath": "C:\\Users\\Omer\\source\\repos\\ColorBlast\\ColorBlast\\ColorBlast.csproj",
+        "projectPath": "C:\\Users\\Omer\\Desktop\\TURKCELL\\[ödev2] - ColorBlast\\ColorBlast\\ColorBlast.csproj",
         "packagesPath": "C:\\Users\\Omer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omer\\source\\repos\\ColorBlast\\ColorBlast\\obj\\",
+        "outputPath": "C:\\Users\\Omer\\Desktop\\TURKCELL\\[ödev2] - ColorBlast\\ColorBlast\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
