@@ -22,11 +22,18 @@ namespace ColorBlast
         }
         #endregion
 
-        public Table table { get; set; } = new Table();
+        public Table table { get; set; }
         public int stepCount { get; set; } = 0;
 
         public Game()
         {
+            table = new Table(25,20);
+            table.CreateGrid();
+        }
+
+        public Game(int width, int height)
+        {
+            table = new Table(width, height);
             table.CreateGrid();
         }
 
@@ -77,8 +84,13 @@ namespace ColorBlast
                 Console.WriteLine();
             }
 
-            string blank = new string(' ', table.width - 23);
-            Console.Write($"\n{blank}");
+            if (table.width >=23)
+            {
+                string blank = new string(' ', table.width - 23);
+                Console.Write($"\n{blank}");
+            }
+            else
+                Console.WriteLine();
 
             for (int i = 1; i < 6; i++)
             {
@@ -89,8 +101,15 @@ namespace ColorBlast
                 Console.Write("    ");
             }
 
-            blank = new string(' ', table.width - 8);
-            Console.WriteLine($"\n{blank}Adım Sayısı = {stepCount}");
+            if (table.width >= 23)
+            {
+                string blank = new string(' ', table.width - 8);
+                Console.Write($"\n{blank}");
+            }
+            else
+                Console.Write("\n" + new string(' ',17));
+
+            Console.WriteLine($"Adım Sayısı = {stepCount}");
         }
 
         public bool ControlFinish()
